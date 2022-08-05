@@ -1,0 +1,5 @@
+.imgCartItem {
+  width: 12rem;
+  height: 8rem;
+  object-fit: cover;
+}

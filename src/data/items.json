@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Camera",
+    "price": 100,
+    "imgURL": "src/assets/camera.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Caneca",
+    "price": 100,
+    "imgURL": "../src/assets/caneca.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Celular",
+    "price": 100,
+    "imgURL": "/src/assets/cellphone.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": 100,
+    "imgURL": "/src/assets/tablet.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Violão",
+    "price": 100,
+    "imgURL": "src/assets/violao.jpeg"
+  }
+]

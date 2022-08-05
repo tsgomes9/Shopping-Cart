@@ -1,0 +1,27 @@
+.button-cart {
+  position: relative !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 2.8rem;
+  width: 2.9rem;
+  border-radius: 40px !important;
+}
+
+.button-quant-cart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: -0.4rem;
+  right: -0.4rem;
+
+  background: red;
+  color: white;
+
+  height: 1.2rem;
+  width: 1.2rem;
+  border-radius: 30px;
+
+  font-size: 12px;
+  font-weight: bold;
+}
